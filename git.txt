@@ -1,5 +1,5 @@
  I am Aparna
- I am studying devops
- I am at Bangalore
+ I am studying devops & AWS
+ I am at Bangalore & Chennai
  Thanks&Regards
- Aparna
+ Aparna Mohanty
